@@ -1,0 +1,6 @@
+
+
+iframe {
+    border: 10px transparent;
+    border-image: url("https://raw.githubusercontent.com/edwardhinkle/edwardhinkle.github.io/main/estilos/border.png") 10;
+}
